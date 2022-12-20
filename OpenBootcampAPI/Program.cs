@@ -1,4 +1,4 @@
-using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore;
 using OpenBootcampAPI.DataAccess;
 
 var builder = WebApplication.CreateBuilder(args);
