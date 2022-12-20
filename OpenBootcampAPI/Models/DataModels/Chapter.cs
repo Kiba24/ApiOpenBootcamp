@@ -7,7 +7,7 @@ namespace OpenBootcampAPI.Models.DataModels
         [Required]
         public string Chapters { get; set; } = string.Empty;
 
-        [Required]
-        public virtual Course Course { get; set; } = new Course();
+        public int CourseId { get; set; }
+        public Course Course { get; set; } = new Course();
     }
 }

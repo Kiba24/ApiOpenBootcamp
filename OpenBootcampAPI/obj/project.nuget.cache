@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "edNN6dbg/nq9A9631KM3rpGi4x43qdfk0FhSTAk8s+Fr9jstNrz3k1Uk/NOPLU9JNG/jEzenVBSjaELRKQWE4w==",
+  "dgSpecHash": "deoV7Y731pyTDbX2xbTPxNatciBlqYsmZOFHS8UCrYf7yscQqCRWl3tjTJSAy3/gpmku6eW74EY36rwkJW79Xg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\salvi\\OneDrive\\Escritorio\\Programas Mios\\OpenBootcampAPI\\OpenBootcampAPI\\OpenBootcampAPI.csproj",
+  "projectFilePath": "C:\\Users\\salvi\\Source\\Repos\\ApiOpenBootcamp\\OpenBootcampAPI\\OpenBootcampAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\salvi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\salvi\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -9798,11 +9798,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\salvi\\OneDrive\\Escritorio\\Programas Mios\\OpenBootcampAPI\\OpenBootcampAPI\\OpenBootcampAPI.csproj",
+      "projectUniqueName": "C:\\Users\\salvi\\Source\\Repos\\ApiOpenBootcamp\\OpenBootcampAPI\\OpenBootcampAPI.csproj",
       "projectName": "OpenBootcampAPI",
-      "projectPath": "C:\\Users\\salvi\\OneDrive\\Escritorio\\Programas Mios\\OpenBootcampAPI\\OpenBootcampAPI\\OpenBootcampAPI.csproj",
+      "projectPath": "C:\\Users\\salvi\\Source\\Repos\\ApiOpenBootcamp\\OpenBootcampAPI\\OpenBootcampAPI.csproj",
       "packagesPath": "C:\\Users\\salvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\salvi\\OneDrive\\Escritorio\\Programas Mios\\OpenBootcampAPI\\OpenBootcampAPI\\obj\\",
+      "outputPath": "C:\\Users\\salvi\\Source\\Repos\\ApiOpenBootcamp\\OpenBootcampAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\salvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
